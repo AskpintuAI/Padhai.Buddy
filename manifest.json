@@ -1,13 +1,15 @@
 {
-  "name": "PadhaiBuddy - गृह कार्य ट्रेकर",
+  "name": "PadhaiBuddy",
   "short_name": "PadhaiBuddy",
-  "description": "राजस्थान के स्कूलों के लिए निःशुल्क गृहकार्य ट्रेकिंग App",
+  "description": "Rajasthan schools ke liye free homework tracking app",
   "start_url": "/PadhaiBuddy-2.html",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0F172A",
   "theme_color": "#FF6B00",
   "orientation": "portrait",
-  "lang": "hi",
+  "lang": "hi-IN",
+  "categories": ["education"],
   "icons": [
     {
       "src": "icon-192x192.png",
@@ -27,7 +29,5 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ],
-  "categories": ["education"]
+  ]
 }
-
