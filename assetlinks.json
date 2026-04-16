@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.askpintuai.padhaibuddy",
+      "sha256_cert_fingerprints": [
+        "96:FD:DA:47:E0:BC:0B:31:AA:C9:64:99:36:84:E9:30:21:49:6D:E5:8B:B4:FA:F9:DB:05:52:DD:C7:7F:F1:02"
+      ]
+    }
+  }
+]
